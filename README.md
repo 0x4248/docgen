@@ -9,6 +9,12 @@ The program takes a single argument, the path to the input file. The generated d
 python3 main.py <input file>
 ```
 
+If you want to write the output to a file you can run.
+
+```
+python3 main.py <input file> > <output file>
+```
+
 ## Example
 The following example shows the input file and the generated documentation.
 ```c
