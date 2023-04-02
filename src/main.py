@@ -8,6 +8,11 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python3 main.py input_file")
         sys.exit(1)
+        
+    if sys.argv[1] == "-help" or sys.argv[1] == "-h":
+        print("Usage: python3 main.py input_file")
+        sys.exit(0)
+
     input_file = sys.argv[1]
     output = ""
     with open(input_file, "r") as f:
