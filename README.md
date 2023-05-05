@@ -102,3 +102,6 @@ This is a test return value.
 int main(int argc, char *argv[])
 ```
 ````
+
+## License
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
