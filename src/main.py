@@ -8,7 +8,7 @@ if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python3 main.py input_file")
         sys.exit(1)
-        
+
     if sys.argv[1] == "-help" or sys.argv[1] == "-h":
         print("Usage: python3 main.py input_file")
         sys.exit(0)
@@ -51,7 +51,7 @@ if __name__ == "__main__":
                     print("### Return value")
                     print(line[12:])
                 elif line.startswith(" * @") and ":" in line:
-                    print(line[4:]+"\n")
+                    print(line[4:] + "\n")
         elif comment_just_read:
             if line == "":
                 continue
