@@ -1,6 +1,7 @@
 # Docgen
 # A simple script to generate markdown documentation from C source code
 # GitHub: https://www.github.com/awesomelewis2007/docgen
+# Licence: GPL-3.0
 # By: Lewis Evans
 
 import sys
