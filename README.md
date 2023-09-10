@@ -1,6 +1,6 @@
 # Docgen
 
-A simple script to generate markdown documentation from C source code
+A simple python script to generate markdown documentation from C source code
 
 ## Usage
 The program takes a single argument, the path to the input file. The generated documentation will be printed to stdout.
