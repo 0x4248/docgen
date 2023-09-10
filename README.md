@@ -104,4 +104,4 @@ int main(int argc, char *argv[])
 ````
 
 ## Licence
-This project is licensed under the GPL-3.0 License - see the [LICENCE](LICENCE) file for details.
+This project is licensed under the General Public Licence version 3.0. See the [LICENCE](LICENCE) file for more information.
