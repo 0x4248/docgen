@@ -9,7 +9,7 @@ The program takes a single argument, the path to the input file. The generated d
 python3 main.py <input file>
 ```
 
-If you want to write the output to a file you can run.
+If you want to write the output to a file you can run. This will write the output to the file specified by `<output file>`.
 
 ```
 python3 main.py <input file> > <output file>
